@@ -6,7 +6,7 @@
     "https://raw.githubusercontent.com/JFroxe/encode-mdm/main/app-release-signed.apk",
 
   "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM":
-    "9D7EC80B303A8F3A27BAC37A471CC63C2F4824E93B4C451E45C42B6CCC9C6697",
+    "9d7ec80b303a8f3a27bac37a471cc63c2f4824e93b4c451e45c42b6ccc9c6697",
 
   "android.app.extra.PROVISIONING_MODE":
     "DEVICE_OWNER",
@@ -15,4 +15,5 @@
 
   "android.app.extra.PROVISIONING_LEAVE_ALL_SYSTEM_APPS_ENABLED": true
 }
+
 
